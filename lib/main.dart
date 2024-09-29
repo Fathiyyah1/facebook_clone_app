@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import '/config/routes/routes.dart';
 
 void main() {
-  runApp(const MainApp());
+  runApp(MainApp());
 }
 
 class MainApp extends StatelessWidget {
