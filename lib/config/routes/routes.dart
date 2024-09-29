@@ -1,4 +1,4 @@
-import 'package:facebook_clone/core/screens/error_screen.dart';
+import 'package:facebook_clone_app/core/screens/error_screen.dart';
 import 'package:flutter/cupertino.dart';
 
 class Routes {
